@@ -1,6 +1,6 @@
 # Apocalypse Truck: Arena of Chaos
 
-## A Unity-based spin-off game for Apocalypse Truck, targeting PC, console and mobile platforms.
+#### A Unity-based spin-off game for Apocalypse Truck, targeting PC, console and mobile platforms.
 
 ## Version Notes
 
